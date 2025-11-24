@@ -1,0 +1,2 @@
+# Nenhuma dependência externa necessária
+# Aplicação usa apenas a biblioteca padrão do Python (tkinter)
